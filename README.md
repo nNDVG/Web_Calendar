@@ -17,7 +17,6 @@ It should be started from terminal by: python web_calendar.py
 ## Author
 
     https://github.com/nNDVG/
-    https://hub.docker.com/u/ndvg/
 
 ## Contacts
 
