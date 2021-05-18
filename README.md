@@ -1,14 +1,14 @@
 # Web-Calendar (JetBrains Academy's project) 
 
-### This scripts gets a list of logins and generate random passwords trying to get a correct one. It exploit known vulnerability: the remote host responds after delay if symbols we try for password match the beggining of the correct one.
+### A web calendar program with the ability to add and remove events, as well as access them for a specific date, a specific period of time, or for today through web requests. Implemented on the Flask framework with flask_restful and SQLAlchemy.
 
-## Used modules:
-
+## Tech stack:
+    Python 3.x
+    Flask
+    flask_restful
+    SQLite
+    SQLAlchemy
     datetime
-    string
-    urllib
-    argparse
-    json
-    socket
+    sys
 
-### It should be started from terminal by: python password_hacker.py remote_host remote_port
+### It should be started from terminal by: python web_calendar.py 
