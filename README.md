@@ -5,10 +5,21 @@
 ## Tech stack:
     Python 3.x
     Flask
-    flask_restful
+    Flask_restful
     SQLite
     SQLAlchemy
-    datetime
-    sys
+    Datetime
+    Sys
 
-### It should be started from terminal by: python web_calendar.py 
+## Run
+It should be started from terminal by: python web_calendar.py 
+
+## Author
+
+    https://github.com/nNDVG/
+    https://hub.docker.com/u/ndvg/
+
+## Contacts
+
+    Telegram: nNDVG
+    Email: n.dvg@yandex.ru
